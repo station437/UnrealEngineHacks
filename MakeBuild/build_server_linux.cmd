@@ -7,5 +7,3 @@ call %uat_path% BuildCookRun -project=%uproject_path% -noP4 -platform=Linux -cli
 	tar cz -f linuxserver_latest.tar.gz LinuxServer
 	rundll32 user32.dll,MessageBeep
 )
-
-@rem scp -P <port> linuxserver_latest.tar.gz <user>@<server>:<path>
