@@ -78,4 +78,6 @@ MakeBuild/*
 !MakeBuild/*.example
 MakeBuild/uat_path.cmd
 
+!Plugins/*/Resources/**
+
 .vsconfig
