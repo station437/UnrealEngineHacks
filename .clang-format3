@@ -1,3 +1,4 @@
+# my crazy version
 # clang-format v13
 Language: Cpp
 BasedOnStyle: Microsoft
@@ -31,7 +32,7 @@ BreakBeforeBinaryOperators: All
 #BreakBeforeConceptDeclarations: Always
 BreakBeforeTernaryOperators: true
 BreakConstructorInitializers: AfterColon
-BreakInheritanceList: AfterColon
+BreakInheritanceList: AfterComma
 BreakStringLiterals: false
 ColumnLimit: 180
 CompactNamespaces: false
