@@ -81,3 +81,5 @@ MakeBuild/uat_path.cmd
 !Plugins/*/Resources/**
 
 .vsconfig
+
+.idea/
