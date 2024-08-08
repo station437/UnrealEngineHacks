@@ -90,11 +90,10 @@ SpacesInParentheses: false
 StatementMacros: ['UPROPERTY', 'UFUNCTION', 'UCLASS', 'USTRUCT', 'UENUM', 'UINTERFACE', 'GENERATED_BODY']
 TabWidth: 4
 UseCRLF: false
-UseTab: Never
+UseTab: ForContinuationAndIndentation
 #WhitespaceSensitiveMacros: ['UPROPERTY', 'UFUNCTION', 'UCLASS', 'USTRUCT', 'UENUM', 'UINTERFACE', 'GENERATED_BODY']
+SortIncludes: false
 
 # clang-format v14
 #PackConstructorInitializers: Never
 #SeparateDefinitionBlocks: Always
-
- 
